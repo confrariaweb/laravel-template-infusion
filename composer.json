@@ -1,0 +1,32 @@
+{
+    "name": "confrariaweb/laravel-template-infusion",
+    "version": "dev-master",
+    "description": "Laravel template package infucion",
+    "keywords": [
+        "template",
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Rafael Zingano",
+            "email": "confrariaweb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ConfrariaWeb\\TemplateInfusion\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+              "ConfrariaWeb\\TemplateInfusion\\Providers\\TemplateInfusionServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
