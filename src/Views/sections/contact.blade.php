@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <form autocomplete="false" role="form" method="post" action="https://mautic.confrariaweb.com.br/form/submit?formId=1" id="mauticform_contatoconfrariaweb" data-mautic-form="contatoconfrariaweb" enctype="multipart/form-data">
+                <form autocomplete="false" role="form" method="post" action="https://mautic.confrariaweb.com.br/form/submit?formId=1" id="mauticform_contatositeconfrariaweb" data-mautic-form="contatositeconfrariaweb" enctype="multipart/form-data">
                     <div class="mauticform-error" id="mauticform_contatoconfrariaweb_error"></div>
                     <div class="mauticform-message alert" id="mauticform_contatoconfrariaweb_message"></div>
                     <div class="row">
