@@ -22,14 +22,11 @@
                                 <div class="table-cell">
                                     <div class="work-content">
                                         <h3>Project Title</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                            industry.</p>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/images/1.jpg') }}"
-                                           class="gallery"><i class="fa fa-camera"
-                                                              aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
-                                           target="_blank"><i class="fa fa-link"
-                                                              aria-hidden="true"></i></a>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/images/1.jpg') }}" class="gallery">
+                                            <i class="fa fa-camera" aria-hidden="true"></i>
+                                        </a>
+                                        <a href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +48,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/2.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -75,7 +72,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/3.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -99,7 +96,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/4.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -123,7 +120,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/5.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -147,7 +144,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/6.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -171,7 +168,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/2.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -195,7 +192,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/3.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>
@@ -219,7 +216,7 @@
                                         <a href="{{ asset('vendor/confrariaweb/template-infusion/images/2.jpg') }}"
                                            class="gallery"><i class="fa fa-camera"
                                                               aria-hidden="true"></i></a>
-                                        <a href="{{ asset('vendor/confrariaweb/template-infusion/single-portfolio.html') }}"
+                                        <a href="#"
                                            target="_blank"><i class="fa fa-link"
                                                               aria-hidden="true"></i></a>
                                     </div>

@@ -69,7 +69,7 @@
 @include('templateInfusion::sections.banner')
 @include('templateInfusion::sections.about')
 @include('templateInfusion::sections.service')
-@include('templateInfusion::sections.portfolio')
+<!--include('templateInfusion::sections.portfolio')-->
 @include('templateInfusion::sections.testimonial')
 @include('templateInfusion::sections.counter')
 @include('templateInfusion::sections.blog')
@@ -79,6 +79,16 @@
     <i class="fa fa-angle-up"></i>
 </div>
 @include('templateInfusion::partials.footer')
+
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+            m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://mautic.confrariaweb.com.br/mtc.js','mt');
+
+    mt('send', 'pageview');
+</script>
+
 <script src="{{ asset('vendor/confrariaweb/template-infusion/vendor/jquery/jquery-2.1.4.min.js') }}"></script>
 <script src="{{ asset('vendor/confrariaweb/template-infusion/vendor/stellar/jquery.stellar.min.js') }}"></script>
 <script src="{{ asset('vendor/confrariaweb/template-infusion/vendor/typed/typed.js') }}"></script>
