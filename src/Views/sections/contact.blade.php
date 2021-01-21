@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <form autocomplete="false" role="form" method="post" action="https://mautic.confrariaweb.com.br/form/submit?formId=3" id="mauticform_contatoconfrariaweb" data-mautic-form="contatoconfrariaweb" enctype="multipart/form-data">
+                <form autocomplete="false" role="form" method="post" action="https://mautic.confrariaweb.com.br/form/submit?formId=1" id="mauticform_contatoconfrariaweb" data-mautic-form="contatoconfrariaweb" enctype="multipart/form-data">
                     <div class="mauticform-error" id="mauticform_contatoconfrariaweb_error"></div>
                     <div class="mauticform-message alert" id="mauticform_contatoconfrariaweb_message"></div>
                     <div class="row">
@@ -29,9 +29,9 @@
                             <button type="submit" name="mauticform[submit]" id="mauticform_input_contatoconfrariaweb_submit" value="" class="send-btn mt-20 mauticform-button btn btn-default">ENVIAR A MENSAGEM</button>
                         </div>
                     </div>
-                    <input type="hidden" name="mauticform[formId]" id="mauticform_contatoconfrariaweb_id" value="3">
-                    <input type="hidden" name="mauticform[return]" id="mauticform_contatoconfrariaweb_return" value="">
-                    <input type="hidden" name="mauticform[formName]" id="mauticform_contatoconfrariaweb_name" value="contatoconfrariaweb">
+                    <input type="hidden" name="mauticform[formId]" id="mauticform_contatositeconfrariaweb_id" value="1">
+                    <input type="hidden" name="mauticform[return]" id="mauticform_contatositeconfrariaweb_return" value="">
+                    <input type="hidden" name="mauticform[formName]" id="mauticform_contatositeconfrariaweb_name" value="contatositeconfrariaweb">
                 </form>
             </div>
         </div>
